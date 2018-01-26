@@ -1,4 +1,9 @@
-# New Eden Faces (React)
+# MERN stack Demo
+* gulp 
+* Bower 
+* MongoDB
+* nodemon
+* SOCKET.IO
 ## Credit to [Sahat Yalkabov](https://github.com/sahat)
 
 **Source code** for
